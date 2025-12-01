@@ -1,16 +1,20 @@
-## Hi there 👋
+---
+# Hi there, I'm Aurellx86
 
-<!--
-**aurellx86-cell/aurellx86-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer focused on backend, security, and game development. 
+Still learning — still improving — just building what interests me.
 
-Here are some ideas to get you started:
+---
+### 🧠 Interests
+- Backend development  
+- Security & automation  
+- Game development 
+- Scripting & system workflows  
+---
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=green)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
